@@ -1,0 +1,19 @@
+there are 3 ways to declare the variables
+1>var
+2>let
+3>const
+<var>
+it can be redeclared and updateddddd(var keyword)
+<let>
+if we use let keyword we cannot redeclare it but we can update it.
+<const>
+we cant change or update the var if we declare it once.
+
+
+
+
+
+loops
+>for(let i=1;i<=5;i++){
+    console.log(i);
+}
